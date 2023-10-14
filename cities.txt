@@ -1,4 +1,4 @@
-Durban,
-Cape Town,
-Johannesburg,
+Durban
+Cape Town
+Johannesburg
 Mbombela
